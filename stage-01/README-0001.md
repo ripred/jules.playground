@@ -21,6 +21,6 @@ A synthesized, bored voice fills your small habitation module. It's STEVe, the s
 
 ### Your Choices
 
-*   [Investigate the Grav-Plating Stabilizer.](./README-0002.md)
-*   [Investigate the Ship's Main AI Core.](./README-0004.md)
-*   [Investigate the Laser Turret AI.](./README-0009.md)
+*   [Investigate the Warp Field Regulator.](./README-0002.md)
+*   [Investigate the Grav-Plating Stabilizer.](./README-0003.md)
+*   [Investigate the Warp Field Regulator.](./README-0005.md)

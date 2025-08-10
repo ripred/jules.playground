@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-26">💥 Critical Alert: Escape Pod Launch System</h2>
+<h2 id="node-26">💥 Critical Alert: Warp Field Regulator</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 2%                                  |
 | COFFEE LEVEL:     [███████████████████░] 98%                                 |
-| SHIP'S AI MOOD:   Judgmental                                                 |
+| SHIP'S AI MOOD:   Cooperative                                                |
 | LOCATION:         The Vents                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Escape Pod Launch System has developed a superiority complex. You should probably go and de-frag the."
+STEVe's voice crackles over the comms. "Great. Now the Warp Field Regulator is leaking a viscous fluid. You should probably go and pacify the Warp Field Regulator."
 
 
 
 ### Your Choices
 
-*   [Attempt to de-frag the.](./README-0029.md)
+*   [Attempt to pacify the Warp Field Regulator.](./README-0030.md)
 *   [File a formal complaint with HR.](./README-0034.md)
-*   [Investigate the Oxygen Scrubber.](./README-0027.md)
+*   [Investigate the Holodeck Projector.](./README-0028.md)

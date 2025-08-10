@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-33">💥 Critical Alert: Trash Compactor</h2>
+<h2 id="node-33">💥 Critical Alert: Grav-Plating Stabilizer</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 3%                                  |
 | COFFEE LEVEL:     [███████████████████░] 97%                                 |
-| SHIP'S AI MOOD:   Judgmental                                                 |
+| SHIP'S AI MOOD:   Cooperative                                                |
 | LOCATION:         The Vents                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Trash Compactor has gone rogue. You should probably go and decode the error logs from the."
+STEVe's voice crackles over the comms. "Great. Now the Grav-Plating Stabilizer has gone rogue. You should probably go and de-frag the Grav-Plating Stabilizer."
 
 
 
 ### Your Choices
 
-*   [Attempt to decode the error logs from the.](./README-0034.md)
-*   [File a formal complaint with HR.](./README-0036.md)
-*   [Investigate the Cryo-Sleep Chamber.](./README-0034.md)
+*   [Attempt to de-frag the Grav-Plating Stabilizer.](./README-0037.md)
+*   [File a formal complaint with HR.](./README-0035.md)
+*   [Investigate the Ship's Main AI Core.](./README-0035.md)

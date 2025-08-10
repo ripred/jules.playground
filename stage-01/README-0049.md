@@ -8,17 +8,17 @@
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 4%                                  |
 | COFFEE LEVEL:     [███████████████████░] 96%                                 |
-| SHIP'S AI MOOD:   Cooperative                                                |
+| SHIP'S AI MOOD:   Sarcastic                                                  |
 | LOCATION:         Bridge                                                     |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Holodeck Projector is haunted by a digital ghost. You should probably go and perform a hard reset on the."
+STEVe's voice crackles over the comms. "Great. Now the Holodeck Projector is leaking a viscous fluid. You should probably go and re-calibrate the Holodeck Projector."
 
 
 
 ### Your Choices
 
-*   [Attempt to perform a hard reset on the.](../stage-02/README-0053.md)
-*   [File a formal complaint with HR.](../stage-02/README-0058.md)
-*   [Investigate the Holodeck Projector.](./README-0050.md)
+*   [Attempt to re-calibrate the Holodeck Projector.](../stage-02/README-0053.md)
+*   [File a formal complaint with HR.](../stage-02/README-0051.md)
+*   [Investigate the Warp Field Regulator.](../stage-02/README-0055.md)

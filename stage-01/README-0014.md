@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-14">💥 Critical Alert: Cryo-Sleep Chamber</h2>
+<h2 id="node-14">💥 Critical Alert: Grav-Plating Stabilizer</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 1%                                  |
 | COFFEE LEVEL:     [███████████████████░] 99%                                 |
-| SHIP'S AI MOOD:   Impressed                                                  |
-| LOCATION:         Bridge                                                     |
+| SHIP'S AI MOOD:   Smug                                                       |
+| LOCATION:         Cargo Bay                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Cryo-Sleep Chamber is malfunctioning. You should probably go and re-calibrate the."
+STEVe's voice crackles over the comms. "Great. Now the Grav-Plating Stabilizer is malfunctioning. You should probably go and perform a hard reset on the Grav-Plating Stabilizer."
 
 
 
 ### Your Choices
 
-*   [Attempt to re-calibrate the.](./README-0016.md)
+*   [Attempt to perform a hard reset on the Grav-Plating Stabilizer.](./README-0019.md)
 *   [File a formal complaint with HR.](./README-0024.md)
-*   [Investigate the Oxygen Scrubber.](./README-0016.md)
+*   [Investigate the Grav-Plating Stabilizer.](./README-0017.md)

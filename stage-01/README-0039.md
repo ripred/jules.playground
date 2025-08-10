@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-39">💥 Critical Alert: Quantum Carburetor</h2>
+<h2 id="node-39">💥 Critical Alert: Ship's Main AI Core</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 3%                                  |
 | COFFEE LEVEL:     [███████████████████░] 97%                                 |
-| SHIP'S AI MOOD:   Annoyed                                                    |
-| LOCATION:         Mess Hall                                                  |
+| SHIP'S AI MOOD:   Smug                                                       |
+| LOCATION:         Cargo Bay                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Quantum Carburetor has developed a superiority complex. You should probably go and debug the."
+STEVe's voice crackles over the comms. "Great. Now the Ship's Main AI Core is stuck in a recursive loop. You should probably go and re-align the Ship's Main AI Core."
 
 
 
 ### Your Choices
 
-*   [Attempt to debug the.](./README-0042.md)
-*   [File a formal complaint with HR.](./README-0042.md)
-*   [Investigate the Oxygen Scrubber.](./README-0043.md)
+*   [Attempt to re-align the Ship's Main AI Core.](./README-0040.md)
+*   [File a formal complaint with HR.](./README-0040.md)
+*   [Investigate the Shield Modulator.](./README-0050.md)

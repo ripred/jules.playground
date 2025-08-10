@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-16">💥 Critical Alert: Oxygen Scrubber</h2>
+<h2 id="node-16">💥 Critical Alert: Shield Modulator</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 1%                                  |
 | COFFEE LEVEL:     [███████████████████░] 99%                                 |
-| SHIP'S AI MOOD:   Sarcastic                                                  |
-| LOCATION:         Mess Hall                                                  |
+| SHIP'S AI MOOD:   Impressed                                                  |
+| LOCATION:         Cargo Bay                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Oxygen Scrubber is leaking a viscous fluid. You should probably go and pacify the."
+STEVe's voice crackles over the comms. "Great. Now the Shield Modulator is emitting strange noises. You should probably go and decode the error logs from the Shield Modulator."
 
 
 
 ### Your Choices
 
-*   [Attempt to pacify the.](./README-0019.md)
-*   [File a formal complaint with HR.](./README-0023.md)
-*   [Investigate the Holodeck Projector.](./README-0019.md)
+*   [Attempt to decode the error logs from the Shield Modulator.](./README-0021.md)
+*   [File a formal complaint with HR.](./README-0019.md)
+*   [Investigate the Trash Compactor.](./README-0022.md)

@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-9">💥 Critical Alert: Laser Turret AI</h2>
+<h2 id="node-9">💥 Critical Alert: Holodeck Projector</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 0%                                  |
 | COFFEE LEVEL:     [████████████████████] 100%                                |
 | SHIP'S AI MOOD:   Impressed                                                  |
-| LOCATION:         Engineering                                                |
+| LOCATION:         Cargo Bay                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Laser Turret AI is leaking a viscous fluid. You should probably go and perform a hard reset on the."
+STEVe's voice crackles over the comms. "Great. Now the Holodeck Projector is stuck in a recursive loop. You should probably go and decode the error logs from the Holodeck Projector."
 
 
 
 ### Your Choices
 
-*   [Attempt to perform a hard reset on the.](./README-0013.md)
-*   [File a formal complaint with HR.](./README-0018.md)
-*   [Investigate the Grav-Plating Stabilizer.](./README-0012.md)
+*   [Attempt to decode the error logs from the Holodeck Projector.](./README-0013.md)
+*   [File a formal complaint with HR.](./README-0015.md)
+*   [Investigate the Nutrient Paste Dispenser.](./README-0010.md)

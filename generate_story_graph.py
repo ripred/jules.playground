@@ -62,7 +62,7 @@ def generate_story_graph(num_nodes, nodes_per_stage):
         fix_verb = random.choice(VERBS_FIX)
 
         title = f"💥 Critical Alert: {system}"
-        story_text = f"STEVe's voice crackles over the comms. \"Great. Now the {system} {broken_verb}. You should probably go and {fix_verb}.\""
+        story_text = f"STEVe's voice crackles over the comms. \"Great. Now the {system} {broken_verb}. You should probably go and {fix_verb} {system}.\""
 
         new_choices = []
         # If this is the last node of a stage (and not the final node), link to the next stage
@@ -76,7 +76,7 @@ def generate_story_graph(num_nodes, nodes_per_stage):
             new_choices.append({"text": "Play again.", "target_node_id": 1})
         else: # A regular node
             target_id = min(num_nodes, i + random.randint(1, 5))
-            new_choices.append({"text": f"Attempt to {fix_verb}.", "target_node_id": target_id})
+            new_choices.append({"text": f"Attempt to {fix_verb} {system}.", "target_node_id": target_id})
             target_id_2 = min(num_nodes, i + random.randint(1, 10))
             new_choices.append({"text": "File a formal complaint with HR.", "target_node_id": target_id_2})
 

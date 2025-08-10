@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-38">💥 Critical Alert: Cryo-Sleep Chamber</h2>
+<h2 id="node-38">💥 Critical Alert: Grav-Plating Stabilizer</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 3%                                  |
 | COFFEE LEVEL:     [███████████████████░] 97%                                 |
-| SHIP'S AI MOOD:   Judgmental                                                 |
-| LOCATION:         Bridge                                                     |
+| SHIP'S AI MOOD:   Cooperative                                                |
+| LOCATION:         Cargo Bay                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Cryo-Sleep Chamber has gone rogue. You should probably go and re-calibrate the."
+STEVe's voice crackles over the comms. "Great. Now the Grav-Plating Stabilizer is malfunctioning. You should probably go and decode the error logs from the Grav-Plating Stabilizer."
 
 
 
 ### Your Choices
 
-*   [Attempt to re-calibrate the.](./README-0039.md)
-*   [File a formal complaint with HR.](./README-0039.md)
-*   [Investigate the Quantum Carburetor.](./README-0039.md)
+*   [Attempt to decode the error logs from the Grav-Plating Stabilizer.](./README-0043.md)
+*   [File a formal complaint with HR.](./README-0040.md)
+*   [Investigate the Trash Compactor.](./README-0040.md)

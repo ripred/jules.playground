@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-2">💥 Critical Alert: Grav-Plating Stabilizer</h2>
+<h2 id="node-2">💥 Critical Alert: Warp Field Regulator</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 0%                                  |
 | COFFEE LEVEL:     [████████████████████] 100%                                |
-| SHIP'S AI MOOD:   Annoyed                                                    |
-| LOCATION:         Engineering                                                |
+| SHIP'S AI MOOD:   Smug                                                       |
+| LOCATION:         Mess Hall                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Grav-Plating Stabilizer has gone rogue. You should probably go and de-frag the."
+STEVe's voice crackles over the comms. "Great. Now the Warp Field Regulator has developed a superiority complex. You should probably go and debug the Warp Field Regulator."
 
 
 
 ### Your Choices
 
-*   [Attempt to de-frag the.](./README-0003.md)
-*   [File a formal complaint with HR.](./README-0009.md)
-*   [Investigate the Grav-Plating Stabilizer.](./README-0003.md)
+*   [Attempt to debug the Warp Field Regulator.](./README-0003.md)
+*   [File a formal complaint with HR.](./README-0008.md)
+*   [Investigate the Holodeck Projector.](./README-0008.md)

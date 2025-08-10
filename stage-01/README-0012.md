@@ -2,7 +2,7 @@
 
 ---
 
-<h2 id="node-12">💥 Critical Alert: Grav-Plating Stabilizer</h2>
+<h2 id="node-12">💥 Critical Alert: Nutrient Paste Dispenser</h2>
 
 ```
 ========================================================================
@@ -13,12 +13,12 @@
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Grav-Plating Stabilizer is stuck in a recursive loop. You should probably go and pacify the."
+STEVe's voice crackles over the comms. "Great. Now the Nutrient Paste Dispenser is stuck in a recursive loop. You should probably go and debug the Nutrient Paste Dispenser."
 
 
 
 ### Your Choices
 
-*   [Attempt to pacify the.](./README-0014.md)
-*   [File a formal complaint with HR.](./README-0019.md)
-*   [Investigate the Oxygen Scrubber.](./README-0015.md)
+*   [Attempt to debug the Nutrient Paste Dispenser.](./README-0016.md)
+*   [File a formal complaint with HR.](./README-0017.md)
+*   [Investigate the Shield Modulator.](./README-0013.md)

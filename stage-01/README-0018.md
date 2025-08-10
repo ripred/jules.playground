@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-18">💥 Critical Alert: Nutrient Paste Dispenser</h2>
+<h2 id="node-18">💥 Critical Alert: Warp Field Regulator</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 1%                                  |
 | COFFEE LEVEL:     [███████████████████░] 99%                                 |
-| SHIP'S AI MOOD:   Annoyed                                                    |
-| LOCATION:         Mess Hall                                                  |
+| SHIP'S AI MOOD:   Pedantic                                                   |
+| LOCATION:         Bridge                                                     |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Nutrient Paste Dispenser is emitting strange noises. You should probably go and de-frag the."
+STEVe's voice crackles over the comms. "Great. Now the Warp Field Regulator is malfunctioning. You should probably go and un-haunt the Warp Field Regulator."
 
 
 
 ### Your Choices
 
-*   [Attempt to de-frag the.](./README-0023.md)
-*   [File a formal complaint with HR.](./README-0026.md)
-*   [Investigate the Oxygen Scrubber.](./README-0030.md)
+*   [Attempt to un-haunt the Warp Field Regulator.](./README-0023.md)
+*   [File a formal complaint with HR.](./README-0025.md)
+*   [Investigate the Trash Compactor.](./README-0019.md)

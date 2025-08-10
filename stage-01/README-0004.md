@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-4">💥 Critical Alert: Ship's Main AI Core</h2>
+<h2 id="node-4">💥 Critical Alert: Cryo-Sleep Chamber</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 0%                                  |
 | COFFEE LEVEL:     [████████████████████] 100%                                |
-| SHIP'S AI MOOD:   Smug                                                       |
-| LOCATION:         The Vents                                                  |
+| SHIP'S AI MOOD:   Cooperative                                                |
+| LOCATION:         Bridge                                                     |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Ship's Main AI Core has gone rogue. You should probably go and un-haunt the."
+STEVe's voice crackles over the comms. "Great. Now the Cryo-Sleep Chamber has developed a superiority complex. You should probably go and debug the Cryo-Sleep Chamber."
 
 
 
 ### Your Choices
 
-*   [Attempt to un-haunt the.](./README-0006.md)
+*   [Attempt to debug the Cryo-Sleep Chamber.](./README-0007.md)
 *   [File a formal complaint with HR.](./README-0011.md)
-*   [Investigate the Laser Turret AI.](./README-0005.md)
+*   [Investigate the Oxygen Scrubber.](./README-0011.md)

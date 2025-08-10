@@ -9,16 +9,16 @@
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 2%                                  |
 | COFFEE LEVEL:     [███████████████████░] 98%                                 |
 | SHIP'S AI MOOD:   Pedantic                                                   |
-| LOCATION:         Cargo Bay                                                  |
+| LOCATION:         The Vents                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Shield Modulator is haunted by a digital ghost. You should probably go and re-align the."
+STEVe's voice crackles over the comms. "Great. Now the Shield Modulator has gone rogue. You should probably go and perform a hard reset on the Shield Modulator."
 
 
 
 ### Your Choices
 
-*   [Attempt to re-align the.](./README-0025.md)
-*   [File a formal complaint with HR.](./README-0031.md)
-*   [Investigate the Holodeck Projector.](./README-0024.md)
+*   [Attempt to perform a hard reset on the Shield Modulator.](./README-0025.md)
+*   [File a formal complaint with HR.](./README-0025.md)
+*   [Investigate the Nutrient Paste Dispenser.](./README-0025.md)

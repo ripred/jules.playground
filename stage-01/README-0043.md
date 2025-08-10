@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-43">💥 Critical Alert: Oxygen Scrubber</h2>
+<h2 id="node-43">💥 Critical Alert: Trash Compactor</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 4%                                  |
 | COFFEE LEVEL:     [███████████████████░] 96%                                 |
 | SHIP'S AI MOOD:   Judgmental                                                 |
-| LOCATION:         Mess Hall                                                  |
+| LOCATION:         Bridge                                                     |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Oxygen Scrubber is emitting strange noises. You should probably go and perform a hard reset on the."
+STEVe's voice crackles over the comms. "Great. Now the Trash Compactor is leaking a viscous fluid. You should probably go and perform a hard reset on the Trash Compactor."
 
 
 
 ### Your Choices
 
-*   [Attempt to perform a hard reset on the.](./README-0044.md)
-*   [File a formal complaint with HR.](./README-0045.md)
-*   [Investigate the Holodeck Projector.](./README-0049.md)
+*   [Attempt to perform a hard reset on the Trash Compactor.](./README-0046.md)
+*   [File a formal complaint with HR.](./README-0046.md)
+*   [Investigate the Laser Turret AI.](./README-0045.md)

@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-35">💥 Critical Alert: Nutrient Paste Dispenser</h2>
+<h2 id="node-35">💥 Critical Alert: Ship's Main AI Core</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 3%                                  |
 | COFFEE LEVEL:     [███████████████████░] 97%                                 |
-| SHIP'S AI MOOD:   Nominal                                                    |
-| LOCATION:         Cargo Bay                                                  |
+| SHIP'S AI MOOD:   Impressed                                                  |
+| LOCATION:         Engineering                                                |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Nutrient Paste Dispenser is refusing to authenticate. You should probably go and un-haunt the."
+STEVe's voice crackles over the comms. "Great. Now the Ship's Main AI Core is haunted by a digital ghost. You should probably go and decode the error logs from the Ship's Main AI Core."
 
 
 
 ### Your Choices
 
-*   [Attempt to un-haunt the.](./README-0039.md)
-*   [File a formal complaint with HR.](./README-0038.md)
-*   [Investigate the Quantum Carburetor.](./README-0036.md)
+*   [Attempt to decode the error logs from the Ship's Main AI Core.](./README-0036.md)
+*   [File a formal complaint with HR.](./README-0041.md)
+*   [Investigate the Grav-Plating Stabilizer.](./README-0036.md)

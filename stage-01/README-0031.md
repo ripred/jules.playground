@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-31">💥 Critical Alert: Ship's Main AI Core</h2>
+<h2 id="node-31">💥 Critical Alert: Nutrient Paste Dispenser</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 3%                                  |
 | COFFEE LEVEL:     [███████████████████░] 98%                                 |
 | SHIP'S AI MOOD:   Sarcastic                                                  |
-| LOCATION:         Engineering                                                |
+| LOCATION:         The Vents                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Ship's Main AI Core is malfunctioning. You should probably go and de-frag the."
+STEVe's voice crackles over the comms. "Great. Now the Nutrient Paste Dispenser has developed a superiority complex. You should probably go and pacify the Nutrient Paste Dispenser."
 
 
 
 ### Your Choices
 
-*   [Attempt to de-frag the.](./README-0036.md)
-*   [File a formal complaint with HR.](./README-0040.md)
+*   [Attempt to pacify the Nutrient Paste Dispenser.](./README-0034.md)
+*   [File a formal complaint with HR.](./README-0039.md)
 *   [Investigate the Cryo-Sleep Chamber.](./README-0032.md)

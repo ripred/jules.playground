@@ -2,23 +2,23 @@
 
 ---
 
-<h2 id="node-19">💥 Critical Alert: Holodeck Projector</h2>
+<h2 id="node-19">💥 Critical Alert: Trash Compactor</h2>
 
 ```
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 1%                                  |
 | COFFEE LEVEL:     [███████████████████░] 99%                                 |
-| SHIP'S AI MOOD:   Pedantic                                                   |
-| LOCATION:         Bridge                                                     |
+| SHIP'S AI MOOD:   Sarcastic                                                  |
+| LOCATION:         Cargo Bay                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Holodeck Projector is haunted by a digital ghost. You should probably go and purge the cache of the."
+STEVe's voice crackles over the comms. "Great. Now the Trash Compactor is printing endless gibberish. You should probably go and pacify the Trash Compactor."
 
 
 
 ### Your Choices
 
-*   [Attempt to purge the cache of the.](./README-0022.md)
-*   [File a formal complaint with HR.](./README-0022.md)
-*   [Investigate the Nutrient Paste Dispenser.](./README-0020.md)
+*   [Attempt to pacify the Trash Compactor.](./README-0023.md)
+*   [File a formal complaint with HR.](./README-0028.md)
+*   [Investigate the Grav-Plating Stabilizer.](./README-0020.md)

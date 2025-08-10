@@ -8,17 +8,17 @@
 ========================================================================
 | MISSION PROGRESS: [░░░░░░░░░░░░░░░░░░░░] 3%                                  |
 | COFFEE LEVEL:     [███████████████████░] 97%                                 |
-| SHIP'S AI MOOD:   Sarcastic                                                  |
-| LOCATION:         Bridge                                                     |
+| SHIP'S AI MOOD:   Smug                                                       |
+| LOCATION:         The Vents                                                  |
 ========================================================================
 ```
 
-STEVe's voice crackles over the comms. "Great. Now the Cryo-Sleep Chamber has developed a superiority complex. You should probably go and re-calibrate the."
+STEVe's voice crackles over the comms. "Great. Now the Cryo-Sleep Chamber is leaking a viscous fluid. You should probably go and decode the error logs from the Cryo-Sleep Chamber."
 
 
 
 ### Your Choices
 
-*   [Attempt to re-calibrate the.](./README-0033.md)
-*   [File a formal complaint with HR.](./README-0039.md)
-*   [Investigate the Nutrient Paste Dispenser.](./README-0035.md)
+*   [Attempt to decode the error logs from the Cryo-Sleep Chamber.](./README-0035.md)
+*   [File a formal complaint with HR.](./README-0037.md)
+*   [Investigate the Ship's Main AI Core.](./README-0034.md)
